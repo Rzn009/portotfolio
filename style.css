@@ -17,6 +17,7 @@ body{
     background-image: url(image/poo.png);
     background-size: cover;
     background-position: center;
+    
 }
 .container{
     padding: 10px 10%;
